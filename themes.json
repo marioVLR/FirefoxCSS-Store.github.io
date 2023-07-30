@@ -593,5 +593,11 @@
     "description": "A Firefox CSS themes with auto-color, Mica, auto-hide nav-bar support. Inspired in firefox-one , Edge/Chrome restyle 2023.",
     "image": "assets/img/themes/fox11.webp",
     "tags": [ "vivaldi", "proton", "minimal", "autocolor", "dark", "light", "mica", "adaptive", "transparency", "transparent", "one-line"]
+  },  {
+    "title": "toothless",
+    "link": "https://c4.wallpaperflare.com/wallpaper/833/263/670/toothless-night-fury-dragon-4k-wallpaper-preview.jpg",
+    "description": "toothless",
+    "image": "https://c4.wallpaperflare.com/wallpaper/833/263/670/toothless-night-fury-dragon-4k-wallpaper-preview.jpg",
+    "tags": [ "mario", "theme type: dark", "theme type: light", "mario" ]
   }
 ]
